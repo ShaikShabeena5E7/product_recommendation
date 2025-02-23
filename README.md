@@ -32,6 +32,8 @@ Start the FastAPI server:
 
 The application will be accessible at http://127.0.0.1:8000.
 
+Note: make sure to activate the environment
+
 Testing the API with Postman
 To test the product recommendations, you can use Postman by sending a POST request to the /recommendations endpoint with a JSON payload.
 
